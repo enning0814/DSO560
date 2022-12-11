@@ -1,7 +1,7 @@
 # DSO560 Group Project - Team Purple
 
-### Dataset File
+## Dataset File
 
-#### Code File
+## Code File
 
-#### Presentation
+## Presentation
