@@ -12,4 +12,4 @@ With the increase in demand, the market in this industry become more competitive
 3. [Category Predicting](https://github.com/enning0814/DSO560/blob/main/Code/Category_Predicting_using_Reviews.ipynb.ipynb).
 
 ## Presentation
-[Presnetation Slides Link]
+[Presnetation Slides Link](https://github.com/enning0814/DSO560/blob/main/NLP_podcast.pdf).
