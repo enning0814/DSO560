@@ -8,7 +8,7 @@ With the increase in demand, the market in this industry become more competitive
 
 ## Code Files
 1. [Initial Analysis](https://github.com/enning0814/DSO560/blob/main/Code/Initial_Analysis.ipynb).
-2. [Sentiment Analysis]
+2. [Sentiment Analysis](https://github.com/enning0814/DSO560/blob/main/Code/Sentiment_Analysis_Modelling.ipynb).
 3. [Category Predicting]
 
 ## Presentation
