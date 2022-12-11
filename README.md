@@ -7,9 +7,10 @@ With the increase in demand, the market in this industry become more competitive
 [Podcast Sample CSV File](https://github.com/enning0814/DSO560/blob/main/Dataset/podcast_sample.csv.zip).
 
 ## Code Files
-1. [Initial Analysis](https://github.com/enning0814/DSO560/blob/main/Code/Initial_Analysis.ipynb).
-2. [Sentiment Analysis](https://github.com/enning0814/DSO560/blob/main/Code/Sentiment_Analysis_Modelling.ipynb).
-3. [Category Predicting](https://github.com/enning0814/DSO560/blob/main/Code/Category_Predicting_using_Reviews.ipynb.ipynb).
+1. [Get and Sample Dataset](https://github.com/enning0814/DSO560/blob/main/Code/GetSampleData.ipynb).
+2. [Initial Analysis](https://github.com/enning0814/DSO560/blob/main/Code/Initial_Analysis.ipynb).
+3. [Sentiment Analysis](https://github.com/enning0814/DSO560/blob/main/Code/Sentiment_Analysis_Modelling.ipynb).
+4. [Category Predicting](https://github.com/enning0814/DSO560/blob/main/Code/Category_Predicting_using_Reviews.ipynb.ipynb).
 
 ## Presentation
 [Presnetation Slides Link](https://github.com/enning0814/DSO560/blob/main/NLP_podcast.pdf).
